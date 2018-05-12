@@ -1,0 +1,47 @@
+_repo: Miss-Leslie-s-New-Cookery-Book_40943
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40943-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+description: This comprehensive recipe collection of over 650 pages with 1,000 recipes
+  contains dishes ranging from American fried chicken and southern veal stew to continental
+  favorites like Italian pork and West Indian fried bananas. Every recipe was tested
+  by the author, and all were original to the book, a new standard in American cookbook
+  publishing. Leslie was a marvelous food writer whose strongly stated opinions about
+  cooking techniques and ingredients provided sensible advice to American cooks who
+  had long suffered from the poor directions in continental cookbooks and from the
+  differences in European kitchens and utensils. Her publisher proclaimed this &ldquo;the
+  most complete Cook Book in the world.&rdquo; This edition of Miss Leslie&rsquo;s
+  New Cookery Book was reproduced by permission from the volume in the collection
+  of the American Antiquarian Society, Worcester, Massachusetts. Founded in 1812 by
+  Isaiah Thomas, a Revolutionary War patriot and successful printer and publisher,
+  the Society is a research library documenting the life of Americans from the colonial
+  era through 1876. The Society collects, preserves, and makes available as complete
+  a record as possible of the printed materials from the early American experience.
+  The cookbook collection includes approximately 1,100 volumes.
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40943'
+  lccn: '33037912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+tableOfContents: Soups -- Fish -- Shell-fish -- Beef -- Mutton -- Veal -- Pork --
+  Ham and bacon -- Venison -- Poultry and game -- Sauces -- Vegetables -- Bread, plain
+  cakes, etc. -- Plain desserts -- Fine desserts -- Fine cakes -- Sweetmeats -- Pickles
+  -- Preparations for the sick -- Miscellaneous receipts -- Worth knowing.
+title: Miss Leslie's New Cookery Book
+url: http://www.gutenberg.org/ebooks/40943
